@@ -1,4 +1,4 @@
-// Celsius - Fahrenheit
+// Celsius - Fahrenheits
 /*
 - Initialisez une variable celsius avec une valeur de votre choix en degrés Celsius (par exemple, 25).
 - Calculez la température équivalente en degrés Fahrenheit et stockez-la dans une variable fahrenheit en utilisant la formule : fahrenheit = (celsius * 9/5) + 32.
