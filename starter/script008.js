@@ -3,14 +3,24 @@
  */
 
 // 1. Initialisez une variable firstName à "John" et affichez sa valeur dans la console.
+const firstName = "John";
+console.log(firstName);
 
 // 2. Initialisez une variable lastName à "Smith" et une variable age à 28.
+const lastName = "Smith";
+let age = 28;
 
 // 3. Initialisez une variable fullAge à true et affichez-la.
+let fullAge = 15;
+console.log(fullAge);
 
 // 4. Déclarez une variable job et affichez sa valeur dans la console.
+let job = "IT Ingenior";
+console.log(job);
 
 // 5. Affectez la valeur "Enseignant" à la variable job et affichez-la.
+job = "Enseignant";
+console.log(job);
 
 // 6. Respectez les règles de nommage des variables : le nom ne peut pas
 // - commencer par un chiffre
